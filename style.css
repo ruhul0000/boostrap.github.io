@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* header start  */
 header{
-    background-image: url("banner-photo.jpg");
+    background-image: url("./banner-photo.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
