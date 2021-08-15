@@ -23,13 +23,20 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /* header start  */
-header,bgimg{
+header{
     background-image: ("banner-photo.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
 
+}
+.bgimg{
+    background-image: ("banner-photo.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .navbar{
